@@ -1,2 +1,2 @@
-# Car-price-Predictor
-This project is for quickly estimating the fair market value of any used vehicle. Input the car's details, and get an instant, data-driven price prediction. 
+# Car-Price-Prediction
+I'll use various machine learning algorithms to predict the price of used cars.
